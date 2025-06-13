@@ -1,0 +1,9 @@
+@HostAddressRoot = http://localhost:5258
+
+##
+GET {{HostAddressRoot}}/api/destinations?searchFor=a
+
+
+###
+
+GET {{HostAddressRoot}}/api/destinations
