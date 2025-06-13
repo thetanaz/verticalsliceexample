@@ -1,15 +1,10 @@
 ﻿namespace TravelInspiration.API.Shared.Domain.Entities;
 
-public class Stop :AuditableEntity
+public sealed class Stop(string name) : AuditableEntity
 {
     public int Id { get; set; }
-    public string Name { get; set; }
+    public string Name { get; set; } = name;
     public Uri? ImageUri { get; set; }
-    public Itenerary? Itenerary { get; set; }
-
-    public IteneraryId {
-        get;
-        set;
+    public Itinerary? Itinerary { get; set; }
+    public int ItineraryId { get; set; }
     }
-    }
-}
