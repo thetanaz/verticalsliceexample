@@ -26,3 +26,4 @@ F:\vscode_projects\dotnetapps\TravelInspiration\ExternalDestinationSearch.API\ob
 F:\vscode_projects\dotnetapps\TravelInspiration\ExternalDestinationSearch.API\obj\Debug\net9.0\ExternalDestinationSearch.API.pdb
 F:\vscode_projects\dotnetapps\TravelInspiration\ExternalDestinationSearch.API\obj\Debug\net9.0\ExternalDestinationSearch.API.genruntimeconfig.cache
 F:\vscode_projects\dotnetapps\TravelInspiration\ExternalDestinationSearch.API\obj\Debug\net9.0\ref\ExternalDestinationSearch.API.dll
+F:\vscode_projects\dotnetapps\TravelInspiration\ExternalDestinationSearch.API\obj\Debug\net9.0\ExternalDestinationSearch.API.sourcelink.json

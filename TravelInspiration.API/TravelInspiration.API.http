@@ -7,3 +7,13 @@ GET {{HostAddressRoot}}/api/destinations?searchFor=a
 ###
 
 GET {{HostAddressRoot}}/api/destinations
+
+###
+GET {{HostAddressRoot}}/api/itineraries?searchFor=Paris
+Accept:application/json
+
+###
+GET {{HostAddressRoot}}/api/itineraries/2/stops
+###
+//404 response expected
+GET {{HostAddressRoot}}/api/itineraries/341/stops
